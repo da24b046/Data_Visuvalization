@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px 
 
-df = pd.read_csv("Datasets/final_movies_dataset.csv") #loading the final merged dataset
+df = pd.read_csv("final_movies_dataset.csv") #loading the final merged dataset
 
 def explode_genres(source_df): #handling multiple genres per movie
     exploded_df = source_df.copy()
