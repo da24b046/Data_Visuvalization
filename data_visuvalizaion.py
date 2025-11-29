@@ -371,6 +371,5 @@ def update_histograms(industries, year_range):
     return fig_genre, fig_year
 
 if __name__ == "__main__": #running the dash app
-    
-    print(" Dashboard running at http://127.0.0.1:8051")
-    app.run(jupyter_mode="inline", jupyter_height=900, debug=True, port=8051)
+
+    app.run_server(debug=False, host="0.0.0.0", port=8050)
