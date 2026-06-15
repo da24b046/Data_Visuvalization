@@ -31,17 +31,9 @@ pip install -r requirements.txt
 python data_visuvalization.py
 ```
 
-For production:
-```bash
-gunicorn data_visuvalizaion:server
-```
 
 ## Project Structure
 
 - `data_visuvalization.py` - Main application entry point
 - `requirements.txt` - Python dependencies
-- `Procfile` - Deployment configuration
 
-## License
-
-[Add your license here]
