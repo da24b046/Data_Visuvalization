@@ -7,8 +7,6 @@ A modern, interactive data visualization dashboard built with **Dash** and **Plo
 - Interactive data visualizations powered by Plotly
 - Responsive web interface with Bootstrap components
 - Efficient data processing with Pandas and NumPy
-- Production-ready with Gunicorn WSGI server
-- Easy deployment support (includes Procfile)
 
 ## Requirements
 
@@ -17,7 +15,7 @@ A modern, interactive data visualization dashboard built with **Dash** and **Plo
 - pandas
 - numpy
 - plotly
-- gunicorn
+
 
 ## Installation
 
