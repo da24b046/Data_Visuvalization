@@ -2,9 +2,9 @@
 A comprehensive, interactive data visualization dashboard built with **Dash** and **Plotly**, analyzing Hollywood and Indian movies datasets.
 
 # Team
-PNV Navadeep - DA24B046
-R.Mithilesh - DA24B048
-M.Sai Jagadeesh - DA24B013
+-PNV Navadeep - DA24B046
+-R.Mithilesh - DA24B048
+-M.Sai Jagadeesh - DA24B013
 ## Overview
 
 This project provides an interactive dashboard for exploring movie data across industries, decades, and genres. It combines data from Hollywood and Indian film industries into a unified, filterable visualization interface.
