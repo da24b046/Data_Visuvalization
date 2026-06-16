@@ -1,6 +1,7 @@
 # Data Visualization Project
 A comprehensive, interactive data visualization dashboard built with **Dash** and **Plotly**, analyzing Hollywood and Indian movies datasets.
-#Team
+
+# Team
 PNV Navadeep - DA24B046
 R.Mithilesh - DA24B048
 M.Sai Jagadeesh - DA24B013
