@@ -34,9 +34,6 @@ pip install -r requirements.txt
 ```bash
 python data_visuvalizaion.py
 ```
-
-The dashboard will be accessible at `http://0.0.0.0:8050` (or `http://localhost:8050`)
-
 ## Project Structure
 
 ### Source Files
